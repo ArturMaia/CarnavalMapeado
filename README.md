@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/ArturMaia/CarnavalMapeado/blob/main/carnaval.jpeg" alt=" folia" style="width: 150px; border-radius: 10px;">
+</p>
 
 # Carnaval Mapeado: Blocos de Rua - Ananindeua (Carnaval 2025)
 
