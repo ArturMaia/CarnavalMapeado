@@ -1,6 +1,6 @@
 
 
-# Mapa Interativo de Blocos de Rua - Ananindeua (Carnaval 2025)
+# Carnaval Mapeado: Blocos de Rua - Ananindeua (Carnaval 2025)
 
 Este repositório contém um código Python que gera um mapa interativo com a localização de blocos de rua no município de Ananindeua, estado do Pará, Brasil, para o Carnaval 2025. O mapa é gerado utilizando a biblioteca `Folium`, que permite criar mapas interativos em Python e exportá-los para HTML.
 
