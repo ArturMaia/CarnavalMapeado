@@ -32,7 +32,7 @@ O código possui as seguintes funcionalidades:
 Após a execução, um arquivo HTML chamado `blocos_ananindeua.html` será gerado na pasta do código. Abra o arquivo HTML em um navegador para visualizar o mapa interativo com os blocos de rua.
 
 
-O mapa gerado exibirá os seguintes blocos de rua:
+O mapa gerado exibirá os seguintes blocos de rua (locais de concentração):
 
 - **Bloco Brasileirinho**
 - **Bloco Gaiola das Loucas**
